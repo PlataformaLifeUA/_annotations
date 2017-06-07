@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Key Expressions</Name>
+  <Value className="java.lang.String">Miedo (x2), culpa, tonterias, suegra, cabeza, aprovechad, a menudo, laaargo, todos, fines de semana, recordaba, retortijón, bajar planeta tierra, dura, verdad, invadiendo, momento, kilómeros, más dias, sin vernos, verdad, pánico, mata, fuerte, eternos, dias, sin, verte, largo, mes, acompañare, distancia, reclama, sueño, codo, obligación, reclama, ánimo, egoista, quedarme, ciudad, casos contrarios, sueños, abandonar, mi, hombre, no juzgo, menor, grado, culpable, ausencia, trato, desacertadamente, solucionarlos, mejor, opcíon, otra, manera, olivido, pensamientos, mirándolo, recordar, decirle, mirada, más tarde, de nuevo, se va, reaparecer, mente, puñales. </Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">created from String</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Nickname/Group Name</Name>
+  <Value className="java.lang.String">El militar de mi vida. Infanteria Marina</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Date and time of collection</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Category</Name>
+  <Value className="java.lang.String">Positive emotions,Negative emotions</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Publication Date</Name>
+  <Value className="java.lang.String">17 abril de 2016</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Language</Name>
+  <Value className="java.lang.String">ES</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Other Issues</Name>
+  <Value className="java.lang.String">Es el blog de una mujer que está casada con un militar al que dice querer mucho. Es una de las búsuqedas resultantes de buscar "Miedo, emoción" en Google. </Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Suicidal Clasification</Name>
+  <Value className="java.lang.String">Neutral message</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Likes</Name>
+  <Value className="java.lang.String">176 Visitas de perfil</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Miedo, sentimiento de culpa y otras tonterías. Aún tengo las palabras de mi suegra resonando en mi cabeza: "Aprovechad ahora que podéis","Ya no os vais a ver tan a menudo como antes", "No vas a poder venir todos los fines de semana" y un laaaaaargo etcétera. Por si no lo recordaba, ahí esta ella y con cada recordatorio, un retortijón en mi barriga que me recuerda bajar al planeta Tierra cuando estoy junto a él. Es cierto... Quizás estoy siendo algo dura con ella, pero alguien tenía que pagarlo, aunque fuera en el blog, ¿no? Pues no, la verdad, pero esta es la manera más cobarde que tengo de combatir el sentimiento de culpa y miedo que me está invadiendo en este mismo momento. Miedo porque cada vez se acerca más el momento en el que nos tengamos que alejar aún más kilómetros, en los que vayan a pasar más días sin vernos y la verdad, me da pánico como pueda llegar a llevarlo... Pero lo llevaré lo mejor que pueda, porque "lo que no te mata te hace más fuerte" (o eso dicen), pero si se me hacen eternos cinco días sin verlo, ¿cómo de largo se me hará un mes?. Sentimiento de culpa porque en esta aventura, lo acompañaré en la distancia (al menos, de momento). No voy a tener la enorme suerte de compartir este sueño codo con codo con él porque la obligación también me reclama a mi. Y no sé si será porque he escuchado demasiadas opiniones al respecto o porque en este mismo momento, no me encuentro con mucho ánimo pero me siento enormemente egoísta al quedarme aquí, en mi ciudad, continuando con mi vida. Si, lo sé, es una tontería esto que acabo de decir, pero conozco tantos casos contrarios al mio que parece que lo correcto sea abandonar todos mis sueños por ir detrás de mi hombre para cumplir los suyos. No juzgo a aquellas que lo dejaron absolutamente todo por ellos, creo que en mayor o menor grado, todas acabamos abandonando algo, pero no quiero que me juzguen a mi por querer continuar con mis sueños, mientras mi héroe, en la distancia, continua con los suyos. No creo que lo ame menos, de hecho quizás lo amo aún más de lo que mucha gente, al leer estas líneas, pueda imaginar, puesto que quiero realizarme como persona, para después realizarme en la pareja, así como el está haciendo. Y con esto no estoy escribiendo un texto justificando mis actos puesto que no es necesario, simplemente es una exposición de los hechos de por qué no he de sentirme culpable. Lo peor de todo es que estos pensamientos siempre surgen en su ausencia y trato, desacertadamente, de solucionarlos por teléfono. Y sí, sé que no es la mejor opción pero no encuentro otra manera ya que, cuando estamos juntos, olvido toda esta clase de pensamientos. Me quedo fijamente mirándolo, intentando recordar todo aquello que quería decirle pero, cuando me devuelve la mirada, acaban por borrarse del todo, para más tarde, cuando de nuevo se va, reaparecer en mi mente como puñales que se clavan.<Node id="2892"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="original markups">
+<Annotation Id="0" Type="SuicidalClassification" StartNode="0" EndNode="2892">
+<Feature>
+  <Name className="java.lang.String">AlertLevel</Name>
+  <Value className="java.lang.String">No risk</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">PrimaryMessageType</Name>
+  <Value className="java.lang.String">Undefined</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Language</Name>
+  <Value className="java.lang.String">ES</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">SuicidalClassificationType</Name>
+  <Value className="java.lang.String">Neutral message</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

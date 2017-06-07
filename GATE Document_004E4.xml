@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Key Expressions</Name>
+  <Value className="java.lang.String">She (x2), gone, never, come back, ella, jamás, alcanzarla, inmortal, muerte, me huye, Dios, me condena, insolencia, nada sirve, tu lado, pocos inmortales, descubierto, vivir para siempre, no es tan bueno, sentido, sin amar, le importaba, se ha ido, nunca volverá, alma, renaciodo, imposible (x2), rastrearla, todo, comenzó, encuentren, nada termina, los nuevos, no tienen memoria, no ames, lamentarás, los antiguos, no se puede, vivir sin amar, sus consecuencias. </Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">created from String</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Nickname/Group Name</Name>
+  <Value className="java.lang.String">Triste Zorrito Blanco. Días tristes y nublados. Cuando el sol no sale y se oculta entre las nubes para llorar.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Date and time of collection</Name>
+  <Value className="java.lang.String">Mar 24 mayo, 10:40-10:57</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Category</Name>
+  <Value className="java.lang.String">Negative emotions,No pro-active personal characteristic</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Publication Date</Name>
+  <Value className="java.lang.String">1 de Junio, 2015</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Language</Name>
+  <Value className="java.lang.String">EN</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Other Issues</Name>
+  <Value className="java.lang.String">Tras buscar Tristeza en el Buscador de Google para firefox éste es el segundo resultado. Posee dos blogs, es psicólogo forense con varios trastornos, historial de autolesiones, TDH con hiperactividad, migraña, depresiones, tourette (trasorno neurologico con tics motores y vocales). Posee tambien otra carrera y máster en actividad física y deporte. Queda claro que con un trastorno de la personalidad como es un límite o borderline, las emociones que en este se manifiesten van a ser de tinte profundo. En este caso asemeja la escrtura de un relato de tipo gótico, en el que se ensalza lo inalcanzable y el amor imposible. </Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Suicidal Clasification</Name>
+  <Value className="java.lang.String">Negative message</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Likes</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Post del 1 de Junio de 2015: "She is gone.  She leave us, she is gone and never come back. Ella se ha ido muy lejos y para siempre, creo que jamás podré alcanzarla. Soy inmortal, la muerte me huye y Dios me condena por mi insolencia. De nada sirve tenerlo todo si la persona que mas amas no está a tu lado."                                                                                                                                                                           Firma: "Tom Stocker, uno de los pocos inmortales, ha descubierto que vivir para siempre no es tan bueno como parece. No tiene sentido vivir sin amar, la persona que le importaba se ha ido y nunca  volverá, su  alma ha renacido en otro cuerpo y es imposible rastrearla, todo comenzó para ella y en cambio para el nada termina. Tal vez un día se encuentren, como saberlo eso es imposible, los nuevos no tienen memoria. No ames porque lo lamentaras le advertían los antiguos, pero no se puede vivir sin amar, el mismo se decía y he ahí sus consecuencias."<Node id="1030"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="original markups">
+<Annotation Id="0" Type="SuicidalClassification" StartNode="0" EndNode="1030">
+<Feature>
+  <Name className="java.lang.String">AlertLevel</Name>
+  <Value className="java.lang.String">No risk</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">PrimaryMessageType</Name>
+  <Value className="java.lang.String">Sadness or melancholy</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">SecondaryMessageType</Name>
+  <Value className="java.lang.String">Mysticity</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Language</Name>
+  <Value className="java.lang.String">ES</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">SuicidalClassificationType</Name>
+  <Value className="java.lang.String">Negative message</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

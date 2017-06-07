@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Key Expressions</Name>
+  <Value className="java.lang.String">Abnormal, persistent fear, men(x2), important, to adopt, use this word, readlily use, "Misandry" (x2), describe, attitudes, society, towards men, tend to, ingnore, the root, fear, feminists, bang up, job, making man, into monsters, bred generations, woman, look at men, unnecesary, paranoia, adding, androphobia, vocabulary, dialogue foward, not focusing, hatred (x2).</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">created from String</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Nickname/Group Name</Name>
+  <Value className="java.lang.String"> lifeiscooliguess </Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Date and time of collection</Name>
+  <Value className="java.lang.String">Mar 24 Mayo, 16:45-17:09</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Readers/Subscribers</Name>
+  <Value className="java.lang.String">117,999</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Category</Name>
+  <Value className="java.lang.String">Negative behaviour</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Publication Date</Name>
+  <Value className="java.lang.String">11 meses antes</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Other Issues</Name>
+  <Value className="java.lang.String">La androfobia implica aversi?n, miedo a los hombres por determinados acontecimientos vitales. Este hilo, como es l?gico puede contener comentarios en su mayoria de hombres. </Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Suicidal Clasification</Name>
+  <Value className="java.lang.String">Neutral message</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Usuarios que estaban en activo</Name>
+  <Value className="java.lang.String">180</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>User: lifeiscooliguess (11 months ago): "Androphobia: An abnormal and persistent fear of men. I think its important for the MRM to adopt and use this word more frequently, particularly when engaging with feminists. We readily use "Misandry" to describe the attitudes in society towards men, but in doing so we tend to ignore the root cause of that misandry, which is fear. Feminists have done a bang up job at making men into monsters, and its bred generations of women (and even some men) that look at (other) men with unnecessary paranoia. For this reason, I think adding androphobia more to our vocabulary will help move the dialogue forward, by not focusing on the hatred of men, but the cause of that hatred."<Node id="714"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="original markups">
+<Annotation Id="0" Type="SuicidalClassification" StartNode="0" EndNode="714">
+<Feature>
+  <Name className="java.lang.String">AlertLevel</Name>
+  <Value className="java.lang.String">No risk</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">PrimaryMessageType</Name>
+  <Value className="java.lang.String">Undefined</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Language</Name>
+  <Value className="java.lang.String">EN</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">SuicidalClassificationType</Name>
+  <Value className="java.lang.String">Neutral message</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

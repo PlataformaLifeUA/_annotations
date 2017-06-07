@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Key Expressions</Name>
+  <Value className="java.lang.String">Ti(x2), elijo, mirarte, sonreir, un lugar, sentir, abrazar, vivir, llevará, compartir, caminar, amar (x2), ir, nada, mas, sueños, cumplir, esforzar, decir, estaré.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">created from String</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Nickname/Group Name</Name>
+  <Value className="java.lang.String">Sentimientos azules</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Date and time of collection</Name>
+  <Value className="java.lang.String">Mar 24 mayo, 2016. 12:30- 12:50</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Category</Name>
+  <Value className="java.lang.String">Positive emotions</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Publication Date</Name>
+  <Value className="java.lang.String">Post 15 abril de 2016</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Other Issues</Name>
+  <Value className="java.lang.String">Exraido de Wordpress, existe una mayor privacidad en cuanto a la información del usuario se refiere.  Sin embargo, por la apariencia de fondo del perfil, podría tratarse de una mujer. Nos encontramos ante un verso con rima consonante. </Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Suicidal Clasification</Name>
+  <Value className="java.lang.String">Neutral message</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Likes</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Mi lado 3 falso como un billete de 3 pesos. Autoengaño, mostrando una cara que no es, viendo que lo que creo ser no existe y que detrás de eso hay mucha porquería. Mi niño interior solitario y herido creó esa fantasía para tomar fuerzas de donde no las había. Ya no la necesito más. Veo todas las posibilidades del ser. Darme cuenta que puedo ser todo. Y des identificarme para luego no ser nada y abrir todas las posibilidades de nuevo. He estado aferrado a muchas de las cosas de lo que creo mi personalidad. Mi ego. Mis mil máscaras con demonios incluidos listos para dar una proyección de mis deseos y miedos. Toqué la felicidad. Me doy cuenta que soy feliz. Que sólo basta tomar partes de mí y de las posibilidades que ofrece la vida como defectos o cualidades para afrontar la vida. Yo incluso, no diría que hay defectos y cualidades sino características. ¿Por qué no sentir orgullo cuando me siento mal por dentro y la gente me ataca? ¿Por qué no sentir envidia si me sirve para compararme y salir adelante? ¿Por qué no ser vanidoso si me impide dejarme? Muchas de ellas son bajas pasiones, o también defensas personales.Las virtudes como serenidad, humildad, autenticidad, ecuanimidad, valentía, valor, serenidad, inocencia y acción me sirven para trascender en mí. Salir adelante. Ser mejor. Ahora no soy mejor ni peor que nadie. No soy nada. Lo soy todo. El miedo se difumina en el lienzo de la vida. Y yo como pinceladas en el lienzo voy tomando tonalidades diversas. La obra no se termina hasta que se termina. Así de sencillo. Me encantaría darme cuenta de esa obra, de las pinceladas y la emoción que da el sentirme en equilibrio con lo que me regala esta grandiosa obra.Y lo que más me encanta de todo&#x2026; Que tengo personas maravillosas como mi familia y amigos que han estado ahí. Que siguen estando y que al final del día me demuestran lo grandiosos que son, y que me dejan ser como yo quiero ser. Por qué a fin de cuentas lo que tengo de Amor es para compartir con ellos y conmigo mismo. Gracias a todo&#x2026; y gracias al dolor que me hace ver que el ser sabe mejor después de atravesarlo.<Node id="2100"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="original markups">
+<Annotation Id="0" Type="SuicidalClassification" StartNode="0" EndNode="2100">
+<Feature>
+  <Name className="java.lang.String">AlertLevel</Name>
+  <Value className="java.lang.String">No risk</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">PrimaryMessageType</Name>
+  <Value className="java.lang.String">Auto-Pro-Suicide</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Language</Name>
+  <Value className="java.lang.String">ES</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">SuicidalClassificationType</Name>
+  <Value className="java.lang.String">Neutral message</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Key Expressions</Name>
+  <Value className="java.lang.String">Crecido, cadáver de tus noches, hambriento, recuerdo, herido, bala, soñando, mil futuros, mejores, mencionado, en vano, repetido, voz alta, tu nombre, verbo "volver", pedir, deseo, lo hicieras, piel agrietada, frio, alejó, rememorado, áspero, tacto, invierno, llover, lazos, óxido, humedad, enseñado, nada, no supiera, viento, hojas, ciudad, calor, fuentes, secado, tus ojos, mi boca, aprendido, heridas, tardan en curar, dolido tanto, silencio, grito, sueño, doblega, realidad, tiene que ser, pensar, poema, verso, inspiré, rimas esdríjulas, asonancias, amores hiperbólicos, pido, reconozcas, vivir duele, no vivir mucho más. </Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">created from String</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Nickname/Group Name</Name>
+  <Value className="java.lang.String">Y al final canciones tristes ".  Ser estar y parecer (D.)</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Date and time of collection</Name>
+  <Value className="java.lang.String">Mar 24 mayo, 11:00-11:28</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Category</Name>
+  <Value className="java.lang.String">Negative emotions,No pro-active personal characteristic</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Publication Date</Name>
+  <Value className="java.lang.String">15 de Enero, 2016</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Language</Name>
+  <Value className="java.lang.String">ES</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Other Issues</Name>
+  <Value className="java.lang.String">Tras buscar Tristeza en el Buscador de Google para firefox éste es el quinto resultado.  Cabe recalcar que el modo en que está escrito este post es asimilable a una prosa, con un lenguaje cuidado pero no hasta el exrtremo de crear una rima como en el verso, si que hay recursos poéticos como las personalizaciones, lo que indica un nivel académico Medio-alto. En general, salvo por la temática es un texto con calidad literaria y riqueza en el lenguaje. </Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Suicidal Clasification</Name>
+  <Value className="java.lang.String">Neutral message</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Likes</Name>
+  <Value className="java.lang.String">10156 me gusta.</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Post del 15 de Enero de 2016:  "He crecido escondido tras el cadáver de tus noches, hambriento como un recuerdo, herido como una bala. Soñando la llegada de mil futuros mejores, te he mencionado, y en vano he repetido en voz muy alta tu nombre. he elegido un verbo y ha sido "volver", he pedido un deseo y ha sido que tú lo hicieras. Con la piel agrietada por un frío que nunca se alejó del todo, he rememorado tu tacto, y lo áspero de aquel invierno, aquél, en el que nunca (nos) dejó de llover. He estrechado lazos con el óxido y la humedad, y con el metal más frío, pero ninguno de ellos me ha enseñado nada que ya no supiera de antes. El viento ha movido las hojas de la ciudad, y el calor ha secado las fuentes. también tus ojos, también mi boca. He aprendido que es mejor no medir las heridas por lo que duelen ni por lo que tardan en curar, pero aún así me ha(s) dolido tanto. Que a un silencio se le vence con un grito, pero a un sueño no se le doblega con una realidad. y así tiene que ser. No he vuelto a pensar en tu poema, ni el verso que, decías, alguna vez te inspiré, te devuelvo tus rimas esdrújulas, tus asonancias, tus amores hiperbólicos, a cambio no te pido más que reconozcas, que sí, que vivir duele: pero que no vivir duele mucho más."<Node id="1258"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="original markups">
+<Annotation Id="0" Type="SuicidalClassification" StartNode="0" EndNode="1258">
+<Feature>
+  <Name className="java.lang.String">AlertLevel</Name>
+  <Value className="java.lang.String">No risk</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">PrimaryMessageType</Name>
+  <Value className="java.lang.String">Sadness or melancholy</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">SecondaryMessageType</Name>
+  <Value className="java.lang.String">Auto-No-Pro-Suicide</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Language</Name>
+  <Value className="java.lang.String">ES</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">SuicidalClassificationType</Name>
+  <Value className="java.lang.String">Neutral message</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

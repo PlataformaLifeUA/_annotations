@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Key Expressions</Name>
+  <Value className="java.lang.String">Positive emotions</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">created from String</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Nickname/Group Name</Name>
+  <Value className="java.lang.String">User Chirstain Franco. Apología de la Tristeza.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Date and time of collection</Name>
+  <Value className="java.lang.String">Mar 24 mayo, 18:30-18:40</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Category</Name>
+  <Value className="java.lang.String">No pro-active personal characteristic</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Publication Date</Name>
+  <Value className="java.lang.String">31 de Marzo, 2016</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Language</Name>
+  <Value className="java.lang.String">ES</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Other Issues</Name>
+  <Value className="java.lang.String">Posee 5 blogs. No sabemos si es o no un sujeto beato, sin embargo si que posee ideales de tinte religioso y místico en cuanto la creencia a Dios, Cristo, su divinidad y la conexión con éste, como indica el relato. </Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Suicidal Clasification</Name>
+  <Value className="java.lang.String">Neutral message</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Likes</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Diario de un Díos.  Hoy que soy Dios, un Cristo y un Anticristo unido, entiendo la ruptura entre el reino de Dios y Dios, entre un cristianismo que predica a Cristo como el redentor el cual nos lleva al padre y un ser Cristo develando el ser, la coincidencia de todos los opuestos, la unidad fundamental en el amor, el evangelio es esto que el reino esta en la tierra, esto lo altera absolutamente todo,mientras que el buscar a Dios por medio de la redención de Cristo es el olvido total del reino, nada cambia en la existencia el reino se queda muy lejos en los cielos. Mi grave problema es que en JesuCristo la gente se curaba, se reconciliaba con Dios, encontraba amor y sabiduría en cambio yo que he elegido el camino equivoco veo que cuando la gente se acerca a mi se enferma , se confunde, se irrenconcilia y yo sufro terriblemente la impotencia al no poder amarlos ni siquiera odiarlos, mas he decidido ser Dios y lo debo de llevar con dignidad, hasta que el Padre me libere de esta pesadilla y me permita descansar. Ayer un indio se acerco y me dijo que el podía matar a Dios y convertirse en un Dios como yo, su pretensión me dio tanta rabia y al final no pude evitar una explosión de compasión, porque todos a mi alrededor querían lincharlo así que le respondí jamás podrás matar a Dios, no se puede matar algo que no esta vivo en ti. [...]. El indio pidió disculpas y volvió a ocupar su lugar en mi vagina dentada esperando escondido el día de la gran batalla cuando al final de los tiempos toda la tierra seria pasada por fuego y todas las almas perdidas en ella sean por fin liberadas. [...]
+
+
+<Node id="1607"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="original markups">
+<Annotation Id="0" Type="SuicidalClassification" StartNode="0" EndNode="1607">
+<Feature>
+  <Name className="java.lang.String">AlertLevel</Name>
+  <Value className="java.lang.String">No risk</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">PrimaryMessageType</Name>
+  <Value className="java.lang.String">Sadness or melancholy</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Language</Name>
+  <Value className="java.lang.String">ES</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">SuicidalClassificationType</Name>
+  <Value className="java.lang.String">Neutral message</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

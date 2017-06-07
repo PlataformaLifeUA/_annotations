@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Key Expressions</Name>
+  <Value className="java.lang.String">Positive emotions,No pro-active personal characteristic</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">created from String</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Nickname/Group Name</Name>
+  <Value className="java.lang.String">Recuperando la vida. Un blog para recuperar la vida dia a dia.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Date and time of collection</Name>
+  <Value className="java.lang.String">Mar 24 mayo, 2016. 12:30- 12:50</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Category</Name>
+  <Value className="java.lang.String">Pro-active personal characteristic</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Publication Date</Name>
+  <Value className="java.lang.String">14 de abril, 2016</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Other Issues</Name>
+  <Value className="java.lang.String">Exraido de Wordpress, existe una mayor privacidad en el perfil, sin embargo, la congujación en primera persona y en masculino, hace indicar que se trataría de un hombre. </Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Suicidal Clasification</Name>
+  <Value className="java.lang.String">Positive message</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Likes</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Todo y nada. Regresé hace pocos días de una experiencia transformadora. Fui con una gran amiga al SAT2. Y digo transformadora porque cambió mi percepción de ver mi vida. Conocí acerca de mi personalidad, de mis demonios y de mis máscaras. Aparte de conocer los mandatos familiares para escoger una pareja.En estos momentos me doy cuenta que mucha de la felicidad y dolor que he tenido ha sido una fantasía. Una ilusión. El dolor que creí que sentía sólo era pura neurosis. Ver demonios donde no había y escogí mi infierno personal con los demonios incluidos. Mis demonios: el miedo al dolor, la exigencia, la negación, la voracidad y especialmente el abandono y el rechazo. Todo esto aderezado con una máscara de falsedad. Fue muy duro  ver que la falsedad me vende la idea que la gente me va a aceptar y me va a querer. Cuando en realidad me paga con dolor y miedo. Creí que era miedoso, inseguro, tímido y débil. Me doy cuenta que si me lo propongo soy todo esto y todo lo demás que puede haber como defectos. Me han servido para vivir en mi infierno, para evitar realizarme y ser la víctima de mi propia máscara. Las personas no ven esa parte, ya que soy muchas cosas más que eso. Soy todo y nada. Y puedo experimentar en ser todo y nada a la vez. Soy auténtico, ecuánime, amigable, comprensivo, compasivo, amoroso, cariñoso, preocupado, honesto, sobrio, humilde y feliz. Sé bailar, algo que me daba mucho miedo ya que personas que quería mucho me decían que bailaba ridículamente y torpe. No es así. Si me lo propongo puedo ser esto y todo lo anterior. Tuve momentos de mucho dolor, vergüenza, confusión, aletargamiento, negación, juicio y cansancio. Pero no hay forma de llegar a la felicidad sino es atravesando el dolor y la aceptación de lo que hay. No de lo que creo que hay, o de lo que me gustaría que hubiera. Atravesé la envidia, la gula espiritual, la lujuria, la vanidad, el miedo, la ira, el orgullo, la pereza y la avaricia personal. Tengo un lado muy  5 que me hace encerrarme en mi castillo bajo de energías para no tener que salir de ahí. Conocer de todo para una posible catástrofe personal. Y me retraigo, me aíslo y no confío. La desconfianza y el miedo se apoderaron de mucha de mi vida. El enojo y la rabia me sirvieron para atacar y al mismo tiempo defenderme de una posible traición, de la deslealtad y las mentiras.<Node id="2343"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="original markups">
+<Annotation Id="0" Type="SuicidalClassification" StartNode="0" EndNode="2343">
+<Feature>
+  <Name className="java.lang.String">AlertLevel</Name>
+  <Value className="java.lang.String">No risk</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">PrimaryMessageType</Name>
+  <Value className="java.lang.String">Sadness or melancholy</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">SecondaryMessageType</Name>
+  <Value className="java.lang.String">Auto-No-Pro-Suicide</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Language</Name>
+  <Value className="java.lang.String">ES</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">SuicidalClassificationType</Name>
+  <Value className="java.lang.String">Positive message</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

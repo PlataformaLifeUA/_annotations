@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String"></Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Key Expressions</Name>
+  <Value className="java.lang.String">Te molesto, llorando(x2) nadie (x2), entiende, no, molestar, mis amigos, problema, baño, llorar, tapo, cara, espejo, lloro, morirme, aveces, desaparecer, sensible, fuerte, desaparecer, calle, atropellen, imagino, dia, muerte, de repente, quieren, muerta, extraña, recuerda, falleces, amigos, carta, despedida, jamaz, terminé, quiero, triste, hace feliz, se nota. </Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">created from String</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Nickname/Group Name</Name>
+  <Value className="java.lang.String">Nikolunasuicidamas</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Date and time of collection</Name>
+  <Value className="java.lang.String">Mar 24 Mayo, 17:10-17:24</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Category</Name>
+  <Value className="java.lang.String">Negative emotions</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Publication Date</Name>
+  <Value className="java.lang.String">17 de Febrero, 2016</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Other Issues</Name>
+  <Value className="java.lang.String">Varias conjugaciones del verbo llorar. Presenta ideas suicidas pero a la vez, desea trasmitir la idea de que esas ideas hay que ocultarlas porque sino el resto de personas que están a su alrededor las notas. </Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Suicidal Clasification</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Likes</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Hola, te molesto? Estoy Llorando, nadie me habla. Estoy llorando, nadie me entiende. No quiero molestar a mis amigos.con mi problema. Me encierro en el baño a llorar. Me tapo la cara con las manos, me miro al espejo y lloro más por estar llorando, por una idiotez. Soy sensible, nadie lo sabe. Intento ser fuerte delante de todos, aveces quiero desaparecer, morirme, quisiera que cuando voy por la calle me atropellen. Imagino cada dia mi muerte sino fuera por aquellas personas que me quieren y quiero ya estaría muerta. Si falleces todo el mundo de repente te quiere, te extraña, te recuerda. Quiero eso, pero tampoco quiero que mis amigos sufran. Muchas veces hice una carta de despedida pero jamaz la terminé. Quiero que sepas que cuando estés triste ponte a pensar en aquello que te hace feliz y no mal porque se nota cuando has llorado. "<Node id="844"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="original markups">
+<Annotation Id="0" Type="SuicidalClassification" StartNode="0" EndNode="844">
+<Feature>
+  <Name className="java.lang.String">AlertLevel</Name>
+  <Value className="java.lang.String">Possible</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">PrimaryMessageType</Name>
+  <Value className="java.lang.String">Depression</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">SecondaryMessageType</Name>
+  <Value className="java.lang.String">Sadness or melancholy</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Language</Name>
+  <Value className="java.lang.String">ES</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">SuicidalClassificationType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
