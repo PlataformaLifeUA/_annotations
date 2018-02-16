@@ -4,7 +4,7 @@
 
 <GateDocumentFeatures>
 <Feature>
-  <Name className="java.lang.String">Key Expressions</Name>
+   <Name className="java.lang.String">Key Expressions</Name>
   <Value className="java.lang.String"></Value>
 </Feature>
 <Feature>
